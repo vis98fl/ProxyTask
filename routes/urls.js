@@ -1,7 +1,7 @@
 const express = require('express');
 const HealthController = require('../controllers/health.controller');
 const SomeController = require('../controllers/some.controller');
-const PostController = require('../controllers/PostController');
+const PostController = require('../controllers/post.controller');
 
 
 const router = express.Router();
